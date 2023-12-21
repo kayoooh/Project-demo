@@ -1,4 +1,4 @@
 # Project-demo
 My first Git Repository.
 <br>
-Author - Kayoooh
+Author - Kayoooh (kayo)
